@@ -1,0 +1,4 @@
+Enter withdrawal amount: 500
+Enter withdrawal amount: Withdrawal successful.
+Remaining balance: 4500.0
+ATM transaction completed.

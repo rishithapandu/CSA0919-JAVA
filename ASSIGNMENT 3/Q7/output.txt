@@ -1,0 +1,7 @@
+Success: script1.txt processed
+Success: script2.txt processed
+Failure: Invalid file: corrupt3.txt
+Success: script4.txt processed
+Failure: Invalid file: missing5.txt
+Success: script6.txt processed
+Summary: 4 successful, 2 failed.

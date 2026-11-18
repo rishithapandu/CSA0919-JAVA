@@ -1,0 +1,5 @@
+Station 1 scanned 1 scripts.
+Station 2 scanned 2 scripts.
+Station 3 scanned 3 scripts.
+Station 4 scanned 4 scripts.
+All stations finished.
