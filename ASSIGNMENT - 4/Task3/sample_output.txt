@@ -1,0 +1,5 @@
+Title at NORTH
+Search panel at NORTH of center
+Results area expands in CENTER
+Prev / Next / Reserve at SOUTH
+Resizable window

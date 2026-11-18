@@ -1,0 +1,5 @@
+FeeService validates ID and amount
+Pay: valid input -> payment recorded
+Invalid amount -> error feedback
+Clear -> fields reset
+Receipt -> receipt label shown

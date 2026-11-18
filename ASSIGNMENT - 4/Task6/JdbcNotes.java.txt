@@ -1,0 +1,1 @@
+JDBC integration notes for extension: use PreparedStatement to insert registrations; UNIQUE(student_id,event_name) enforces duplicate prevention at the database layer. Load/filter data with SELECT WHERE event_name=? and use SwingWorker for slow JDBC operations. The provided runnable GUI is an in-memory demonstration so it can be run without a database driver.

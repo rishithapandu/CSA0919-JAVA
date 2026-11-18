@@ -1,0 +1,4 @@
+Student ID: 192424146
+Event: Coding -> Registered successfully
+Same student + same event -> duplicate rejected
+Filter by event; export CSV

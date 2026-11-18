@@ -1,0 +1,5 @@
+Patient ID: P1024
+Department: Cardiology
+Doctor list: Dr Rao / Dr Kumar
+Slot: 10:00
+Book -> confirmation dialog

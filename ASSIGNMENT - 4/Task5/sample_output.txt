@@ -1,0 +1,4 @@
+INR 1000 -> USD 12.00
+INR 1000 -> EUR 11.00
+Invalid text -> Invalid amount dialog
+Button and Enter trigger conversion

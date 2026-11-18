@@ -1,0 +1,3 @@
+Click 1 -> point stored; label Clicks: 1
+Click 2 -> point stored; label Clicks: 2
+Minimise and restore -> paint redraws points
